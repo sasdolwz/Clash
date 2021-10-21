@@ -1,0 +1,15 @@
+ - DOMAIN-SUFFIX,phncdn.com,FanzaDownloads
+ - DOMAIN-SUFFIX,cc3001.dmm.co.jp,FanzaDownloads
+ - DOMAIN-SUFFIX,pics.dmm.co.jp,FanzaDownloads
+ - IP-CIDR,43.255.40.0/22,FanzaDownloads,no-resolve
+ - IP-CIDR,103.254.144.0/22,FanzaDownloads,no-resolve
+ - IP-CIDR,157.112.80.0/20,FanzaDownloads,no-resolve
+ - IP-CIDR,202.6.244.0/22,FanzaDownloads,no-resolve
+ - IP-CIDR,203.209.144.0/20,FanzaDownloads,no-resolve
+ - IP-CIDR,203.209.145.0/24,FanzaDownloads,no-resolve
+ - IP-CIDR,203.209.147.0/24,FanzaDownloads,no-resolve
+ - IP-CIDR,203.209.149.0/24,FanzaDownloads,no-resolve
+ - IP-CIDR,203.209.152.0/24,FanzaDownloads,no-resolve
+ - IP-CIDR,203.209.158.0/24,FanzaDownloads,no-resolve
+ - IP-CIDR,223.252.112.0/20,FanzaDownloads,no-resolve
+ - IP-CIDR6,2001:df0:6800::/48,FanzaDownloads,no-resolve
