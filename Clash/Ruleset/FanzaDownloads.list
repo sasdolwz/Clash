@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,cc3001.dmm.co.jp
 DOMAIN-SUFFIX,pics.dmm.co.jp
+DOMAIN-SUFFIX,str.dmm.com
 IP-CIDR,43.255.40.0/22,no-resolve
 IP-CIDR,103.254.144.0/22,no-resolve
 IP-CIDR,149.28.30.0/24,no-resolve
